@@ -1,1 +1,2 @@
-hello this txt file is created to use as practice.
+hello world
+ive changed the text using write
